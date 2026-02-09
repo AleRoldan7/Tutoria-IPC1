@@ -1,4 +1,4 @@
-package cunoc.tutoria.ipc1;
+package cunoc.tutoria.ipc1.Semana2;
 
 
 import java.util.Random;

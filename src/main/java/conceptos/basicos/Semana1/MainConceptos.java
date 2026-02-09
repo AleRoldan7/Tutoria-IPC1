@@ -1,4 +1,4 @@
-package conceptos.basicos;
+package conceptos.basicos.Semana1;
 
 import java.util.Scanner;
 

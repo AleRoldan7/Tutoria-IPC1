@@ -1,3 +1,3 @@
 Manifest-Version: 1.0
-Main-Class: cunoc.tutoria.ipc1.Main
+Main-Class: cunoc.tutoria.ipc1.Semana2.Main
 
